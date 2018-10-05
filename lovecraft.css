@@ -1,0 +1,52 @@
+hk               html {
+                   background-color: lightgrey;
+            } 
+            main {
+                width: 60%;
+                margin: 0 auto;                
+            }
+            article{
+                margin-left:25%;
+                width:80%;
+            }
+            nav{
+                float:left;
+                width:20%;
+                padding:2%;
+                margin-top:10%;
+    
+            }
+            header{
+                width: 80%;
+                margin: 0 auto;
+            }
+            div.b{
+                text-align: center;
+            }
+            div.a{
+                text-align: right;
+            }
+            i {
+                font-family: 'Cookie', cursive;
+                font-size: 1.5em;
+            }
+            h1{
+                font-family: 'Old Standard TT', serif;
+                font-size: 3em;
+                text-align: center;
+            }
+            h2{
+                text-align: center;
+            }
+            h3{
+                font-family: bold;
+                font-size: 2em;
+                text-align: center;
+            }
+            p{
+                font-family: 'PT Serif Caption', serif;
+                font-size: 1em ;
+            }
+            #kapitel1, #kapitel2,#kapitel3{
+                
+            }
